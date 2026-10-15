@@ -4,6 +4,8 @@ Use Australian English and maintain plain, source-linked explanations. Source do
 
 Preserve four separate hardware pathways: conventional retrofit, geopolymer Version 1, crystalline/fused-quartz/blend Version 2, and computational crystalline Version 3. Fused silica is amorphous; do not equate transparency with crystallinity. Keep compute separate in Versions 1 and 2.
 
+Version 3 means integrated crystalline compute within the Geode itself. Atomically precise manufacturing is required for the completed vision. The user's long-term scale ambition is to make GB300 "look like a smartphone"; preserve this as their design ambition without inventing a benchmark or delivery date. Preserve the intended architecture in the user's words. Do not impose external processing for larger workloads or infer impossibility or unlikelihood from the fact that the system has not yet been built. Describe the development vision and measured results accurately without reducing the scope of the vision.
+
 Keep Genesis qualifying pressure time, daily immersion and teacher-development time distinct. The sixty two-hour intervals are a source design requirement, not a clinical recommendation. General AI observes operating records through a read-only boundary; treatment control stays independent.
 
 Distinguish proposed systems, published findings, participant accounts, traditional meanings and future objectives. Do not claim that the project has clinical validation or that atom-scale research establishes a computational Geode. Kintsugi remains non-load-bearing and non-pressure-bearing.

@@ -145,7 +145,7 @@ select{min-width:220px}
 .atlas-tools p,.reference-tools p{font-size:var(--text-body);color:var(--muted);margin:0 0 10px auto}
 .constellation{position:relative;padding:35px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:105px 70px;background:radial-gradient(ellipse at 50% 50%,#25433566,transparent 65%),radial-gradient(circle,#cde8c018 1px,transparent 1.5px);background-size:auto,25px 25px;border:1px solid var(--line);border-radius:5px;isolation:isolate}
 .map-lines{position:absolute;inset:0;width:100%;height:100%;z-index:-1;pointer-events:none}
-.constellation-centre{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:#142b23;border:1px solid #cee6b444;box-shadow:0 0 80px #b8e5c311;width:115px;height:115px;border-radius:50%;display:grid;place-content:center;text-align:center;font-size:var(--text-body);letter-spacing:.18em;line-height:1.7;z-index:-1}
+.constellation-centre{position:relative;background:#142b23;border:1px solid #cee6b444;box-shadow:0 0 80px #b8e5c311;width:115px;height:115px;border-radius:50%;display:grid;place-content:center;text-align:center;font-size:var(--text-body);letter-spacing:.18em;line-height:1.7;z-index:0}
 .constellation-centre span{font-size:24px;color:var(--gold);margin-bottom:5px}
 .orbit{background:#0c1c17f0;border:1px solid #b8e5c333;padding:19px;box-shadow:0 15px 30px #0002;border-radius:4px;align-self:start}
 .orbit h3{display:flex;align-items:center;gap:10px;font-size:var(--text-body);font-weight:600;margin-bottom:14px;color:var(--mint)}
@@ -350,7 +350,6 @@ select{min-width:220px}
 input,select{min-width:0;width:100%}
 .atlas-tools p,.reference-tools p{margin:0}
 .constellation{grid-template-columns:1fr 1fr;gap:22px;padding:18px}
-.constellation-centre{display:none}
 .orbit{padding:15px}
 .orbit h3{font-size:var(--text-body)}
 .atlas-node{font-size:var(--text-body)}
@@ -508,9 +507,16 @@ small { font-size: var(--text-body); }
 
 .atlas-tools, .reference-tools { flex-wrap: wrap; }
 
-.constellation { gap: 130px 35px; }
+.constellation { gap: 35px; }
 
-.constellation-centre { width: 130px; height: 130px; letter-spacing: .08em; }
+.constellation-centre { grid-area: 2 / 1 / 3 / -1; justify-self: center; width: 130px; height: 130px; letter-spacing: .08em; }
+
+.orbit-0 { grid-area: 1 / 1; }
+.orbit-1 { grid-area: 1 / 2; }
+.orbit-2 { grid-area: 1 / 3; }
+.orbit-3 { grid-area: 3 / 1; }
+.orbit-4 { grid-area: 3 / 2; }
+.orbit-5 { grid-area: 3 / 3; }
 
 .orbit, .orbit h3 { min-width: 0; }
 
@@ -560,7 +566,9 @@ small { font-size: var(--text-body); }
 
   .constellation { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 25px; }
 
-  .constellation-centre { display: none; }
+  .constellation-centre { grid-area: 1 / 1 / 2 / -1; }
+
+  .orbit { grid-area: auto; }
 
 }
 
