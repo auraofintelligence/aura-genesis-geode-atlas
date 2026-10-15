@@ -2,7 +2,7 @@
 
 A source-linked partner website connecting four HBOT/Geode hardware pathways, personal intelligence, sixty days of teacher development, and civic space stewardship.
 
-Planned public address: https://auraofintelligence.github.io/aura-genesis-geode-atlas/
+Website: https://auraofintelligence.github.io/aura-genesis-geode-atlas/
 
 ## Explore
 
@@ -55,7 +55,7 @@ Manufacturer images are remotely hosted. Their availability depends on the sourc
 
 The GitHub Actions workflow validates the build and deploys only public HTML, assets, original PDFs, robots and sitemap files. Set the repository’s GitHub Pages source to **GitHub Actions**. Pushes to `main` deploy automatically. The canonical address is defined near the start of `scripts/build.mjs`; update it if the repository name changes.
 
-The local repository is ready. Remote repository creation and deployment require a GitHub login; the configured Git credential helper and the in-app browser had no active GitHub session during this build.
+Public repository: https://github.com/auraofintelligence/aura-genesis-geode-atlas. Repository About settings and topics are recorded in `.github/repository.json`. GitHub Actions deploys the website after validation.
 
 ## Partner constellation
 
