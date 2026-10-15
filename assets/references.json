@@ -5,7 +5,7 @@
     "url": "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/",
     "type": "Partner project",
     "context": "Regional shared-wellbeing and cooperative proposal.",
-    "origin": "Requested partner"
+    "origin": "Project network"
   },
   {
     "id": "claytons",
@@ -13,15 +13,15 @@
     "url": "https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/",
     "type": "Partner project",
     "context": "A distinct land-gift and partnership invitation on Minjerribah.",
-    "origin": "Requested partner"
+    "origin": "Project network"
   },
   {
     "id": "minjerribah-network",
     "title": "Multi-site Minjerribah Network",
     "url": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/",
     "type": "Partner project",
-    "context": "Distinct place proposals with their own relationships and participation decisions.",
-    "origin": "Requested partner; Geode Development"
+    "context": "Proposed Minjerribah sites and facilities.",
+    "origin": "Project network; Geode Development"
   },
   {
     "id": "cultural-node",
@@ -29,7 +29,7 @@
     "url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/",
     "type": "Partner project",
     "context": "A working cultural, local-compute and community-twin proposal.",
-    "origin": "Requested partner"
+    "origin": "Project network"
   },
   {
     "id": "matrix-live",
@@ -37,7 +37,7 @@
     "url": "https://auraofintelligence.github.io/aura-matrix-studio/",
     "type": "Aura workbench",
     "context": "Current category, table, sequence and vector exploration.",
-    "origin": "Requested link; all three documents"
+    "origin": "All three documents"
   },
   {
     "id": "matrix-repo",
@@ -84,7 +84,7 @@
     "title": "Project Atlas · catalogue",
     "url": "https://auraofintelligence.github.io/project-atlas/projects.html",
     "type": "Aura workbench",
-    "context": "Wider project routes, not evidence of a deployed programme.",
+    "context": "Catalogue of Aura of Intelligence projects.",
     "origin": "Teacher Training; Geode Development"
   },
   {
@@ -260,7 +260,7 @@
     "title": "Mechanical Properties and Microstructural Characterization of Metakaolin Geopolymers Based on Orthogonal Tests",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030422/",
     "type": "Material science",
-    "context": "2022 recipe-variable and characterisation study; does not qualify a Geode pressure structure.",
+    "context": "2022 study of metakaolin geopolymer recipes, mechanical properties and microstructure.",
     "origin": "Geode Development · pp. 39–40"
   },
   {
@@ -284,7 +284,7 @@
     "title": "Ahmed et al. · Universal photonic artificial intelligence acceleration",
     "url": "https://doi.org/10.1038/s41586-025-08854-x",
     "type": "Compute research",
-    "context": "Nature 640, 368–374 (2025). A photonic processor research example, not a computational shell.",
+    "context": "Nature 640, 368–374 (2025). Photonic processor research.",
     "origin": "Geode Development · pp. 39–40"
   },
   {
@@ -300,7 +300,7 @@
     "title": "NIST · Atom-scale Devices: Engineering, Metrology and Manufacturability",
     "url": "https://www.nist.gov/programs-projects/atom-scale-devices-engineering-metrology-and-manufacturability",
     "type": "Compute research",
-    "context": "Concrete atom-scale device fabrication and metrology work; a starting point for specimen questions.",
+    "context": "Atom-scale fabrication, metrology, encapsulation and electrical contacts.",
     "origin": "Geode Development · pp. 39–40"
   },
   {
@@ -308,7 +308,7 @@
     "title": "NIBIB · Ultrasound",
     "url": "https://www.nibib.nih.gov/science-education/science-topics/ultrasound",
     "type": "Assessment methods",
-    "context": "Ultrasound method context; a proposed assessment needs its own question and qualified pathway.",
+    "context": "Ultrasound methods and applications.",
     "origin": "Geode Development · pp. 39–40"
   },
   {
@@ -324,7 +324,7 @@
     "title": "Midjourney Medical · FAQ",
     "url": "https://www.midjourney.com/medical/faq",
     "type": "Assessment methods",
-    "context": "Historical device-development reference linked in the Geode PDF. This atlas does not endorse availability or clinical suitability.",
+    "context": "Historical device-development reference linked in the Geode PDF.",
     "origin": "Geode Development · pp. 39–40"
   },
   {
@@ -332,7 +332,7 @@
     "title": "NVIDIA · DGX SuperPOD data-centre planning",
     "url": "https://docs.nvidia.com/dgx-superpod/design-guides/dgx-superpod-data-center-design-h100/latest/planning.html",
     "type": "Compute research",
-    "context": "Power, cooling and deployment planning for the named system, not a Geode procurement decision.",
+    "context": "Power, cooling and deployment planning for DGX SuperPOD.",
     "origin": "Geode Development · pp. 39–40"
   },
   {
@@ -340,7 +340,7 @@
     "title": "Mineralism · Metaphysical properties",
     "url": "https://www.mineralism.com.au/pages/metaphysical-properties",
     "type": "Contemporary meaning",
-    "context": "Practitioner associations for materials; not clinical-effect evidence.",
+    "context": "Contemporary practitioner associations for minerals and metals.",
     "origin": "Geode Development · pp. 39–40"
   },
   {
@@ -348,7 +348,7 @@
     "title": "Judy Hall · Crystal healing",
     "url": "https://www.collegeofpsychicstudies.co.uk/enlighten/judy-hall-crystal-healing/",
     "type": "Contemporary meaning",
-    "context": "Attributed contemporary crystal-healing meanings; not clinical-effect evidence.",
+    "context": "Judy Hall’s contemporary crystal-healing associations.",
     "origin": "Geode Development · pp. 39–40"
   },
   {
@@ -372,7 +372,7 @@
     "title": "Yale Peabody · Gilded mummy mask",
     "url": "https://echoesofegypt.peabody.yale.edu/egyptosophy/gilded-mummy-mask",
     "type": "History & culture",
-    "context": "Historical context for gold and lapis; not modern therapeutic evidence.",
+    "context": "Ancient Egyptian symbolism of gold and lapis lazuli.",
     "origin": "Geode Development · pp. 39–40"
   },
   {
@@ -565,7 +565,7 @@
     "url": "https://www.macypanofficial.com/2-0ata-single-sitting-type-hyperbaric-chamber-he5000-mono/",
     "type": "Existing chamber reference",
     "context": "Manufacturer product page and photography. One-person seated layout; listed dimensions 1737 × 878 × 1875 mm. Model-specific compliance remains a procurement evidence requirement.",
-    "origin": "Added after user correction · 15 October 2026"
+    "origin": "Manufacturer reference · 15 October 2026"
   },
   {
     "id": "skelund-arc",
@@ -573,14 +573,14 @@
     "url": "https://skelundtech.com/arc-hyperbaric-chamber.html",
     "type": "Existing chamber reference",
     "context": "Manufacturer page and factory photography. Listed dimensions 1780 × 980 × 2000 mm. Delivery body widths are explicitly not doorway clearances or emergency-egress evidence.",
-    "origin": "Added after user correction · 15 October 2026"
+    "origin": "Manufacturer reference · 15 October 2026"
   },
   {
     "id": "oxysail-yf1003",
     "title": "OxySail · YF-1003 round sitting type chamber",
     "url": "https://oxysail.com/products/yf1003-hard-shell-hyperbaric-oxygen-chamber/",
     "type": "Existing chamber reference",
-    "context": "Manufacturer page, and a form reference already named by Oceania. The manufacturer states wellness/non-medical intended use. No image from the partner site is reused here.",
+    "context": "Manufacturer page, and a form reference already named by Oceania. The manufacturer states wellness/non-medical intended use.",
     "origin": "Oceania supplier reference; live page checked 15 October 2026"
   },
   {
@@ -589,15 +589,15 @@
     "url": "https://shop.standards.ie/en-ie/standards/as-nzs-4774-2-2019-1148556_saig_as_as_2724507/",
     "type": "Standards & egress",
     "context": "National Standards Authority of Ireland catalogue: design, construction, operation, maintenance and personnel scope. Full applicable clauses and edition review belong in the project compliance register.",
-    "origin": "User-required egress conformity · added 15 October 2026"
+    "origin": "Emergency-egress reference · 15 October 2026"
   },
   {
     "id": "asme-pvho",
     "title": "ASME · PVHO-1: Pressure Vessels for Human Occupancy",
     "url": "https://www.asme.org/codes-standards/find-codes-standards/safety-standard-for-pressure-vessels-for-human-occupancy",
     "type": "Standards & egress",
-    "context": "Official standard overview. A standard family for the project reviewer to assess against actual construction and jurisdiction. No product conformity is established by this link.",
-    "origin": "User-required egress conformity · added 15 October 2026"
+    "context": "Official standard overview. A standard family for the project reviewer to assess against actual construction and jurisdiction.",
+    "origin": "Emergency-egress reference · 15 October 2026"
   },
   {
     "id": "nfpa-99",
@@ -605,14 +605,14 @@
     "url": "https://www.nfpa.org/codes-and-standards/nfpa-99-standard-development/99",
     "type": "Standards & egress",
     "context": "Official code-development and edition reference. Hyperbaric-facility applicability and adopted edition need actual site review.",
-    "origin": "User-required egress conformity · added 15 October 2026"
+    "origin": "Emergency-egress reference · 15 October 2026"
   },
   {
     "id": "rbwh-hyperbaric",
     "title": "Royal Brisbane and Women’s Hospital · Hyperbaric Medicine",
     "url": "https://metronorth.health.qld.gov.au/rbwh/healthcare-services/hyperbaric-medicine",
     "type": "Standards & egress",
-    "context": "Queensland Health service describes its adherence to AS/NZS 4774.2 and NFPA 99. Institutional context, not a claim of collaboration.",
+    "context": "Queensland Health service describes its adherence to AS/NZS 4774.2 and NFPA 99.",
     "origin": "Additional Australian practice context · 15 October 2026"
   },
   {
