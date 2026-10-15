@@ -1,0 +1,27 @@
+{
+  "accessed": "15 October 2026",
+  "policy": "Original manufacturer-hosted images, with source links and credits. No partner-site image copied. No supplier conformity inferred.",
+  "hero": {
+    "image": "https://skelundtech.com/assets/img/hard-shell/arc-2.0-ata-hard-shell-chamber-graphite-three-quarter-view-factory-800.webp",
+    "source": "https://skelundtech.com/arc-hyperbaric-chamber.html",
+    "credit": "SkelundTech · factory photograph"
+  },
+  "gallery": [
+    {
+      "title": "MACY-PAN HE5000-Mono",
+      "ref": "macypan-mono",
+      "image": "https://www.macypanofficial.com/wp-content/uploads/2024/06/a297941bb0983eca079366c3d1c5cd3f93-1024x647-1.avif",
+      "credit": "Manufacturer-supplied product image · MACY-PAN",
+      "size": "1737 × 878 × 1875 mm",
+      "note": "One-person seated hard shell with a reclining chair and a large front entry. Dimensions are manufacturer-listed."
+    },
+    {
+      "title": "SkelundTech ARC",
+      "ref": "skelund-arc",
+      "image": "https://skelundtech.com/assets/img/hard-shell/arc-2.0-ata-hard-shell-chamber-white-door-open-factory-800.webp",
+      "credit": "Manufacturer factory photograph · SkelundTech",
+      "size": "1780 × 980 × 2000 mm",
+      "note": "Upright single-person seated configuration. The source distinguishes delivery body widths from doorway clearances."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "index",
+    "title": "A new kind of inner space.",
+    "group": "Start here",
+    "href": "index.html"
+  },
+  {
+    "id": "pathways",
+    "title": "Four ways into the Geode.",
+    "group": "Four pathways",
+    "href": "pathways.html"
+  },
+  {
+    "id": "retrofit",
+    "title": "Begin with a seated chamber.",
+    "group": "Four pathways",
+    "href": "retrofit.html"
+  },
+  {
+    "id": "geopolymer",
+    "title": "Cast a mineral environment.",
+    "group": "Four pathways",
+    "href": "geopolymer.html"
+  },
+  {
+    "id": "crystalline",
+    "title": "Shape light, sound and structure.",
+    "group": "Four pathways",
+    "href": "crystalline.html"
+  },
+  {
+    "id": "computational",
+    "title": "When the shell becomes a system.",
+    "group": "Four pathways",
+    "href": "computational.html"
+  },
+  {
+    "id": "entry-egress",
+    "title": "Entry and exit shape the chamber.",
+    "group": "Four pathways",
+    "href": "entry-egress.html"
+  },
+  {
+    "id": "genesis",
+    "title": "A personal adventure in depth.",
+    "group": "The experience",
+    "href": "genesis.html"
+  },
+  {
+    "id": "calendar",
+    "title": "Keep the three clocks clear.",
+    "group": "The experience",
+    "href": "calendar.html"
+  },
+  {
+    "id": "truth-engine",
+    "title": "An invitation to examine meaning.",
+    "group": "The experience",
+    "href": "truth-engine.html"
+  },
+  {
+    "id": "materials",
+    "title": "Every material has two stories.",
+    "group": "The experience",
+    "href": "materials.html"
+  },
+  {
+    "id": "sensing",
+    "title": "Observe with context.",
+    "group": "The experience",
+    "href": "sensing.html"
+  },
+  {
+    "id": "personal-aura",
+    "title": "Give your information a place.",
+    "group": "Personal intelligence",
+    "href": "personal-aura.html"
+  },
+  {
+    "id": "sovereignty",
+    "title": "Public. Private. Secret.",
+    "group": "Personal intelligence",
+    "href": "sovereignty.html"
+  },
+  {
+    "id": "intelligence",
+    "title": "From a record to useful action.",
+    "group": "Personal intelligence",
+    "href": "intelligence.html"
+  },
+  {
+    "id": "immersion",
+    "title": "A life around the session.",
+    "group": "The experience",
+    "href": "immersion.html"
+  },
+  {
+    "id": "teacher-training",
+    "title": "Sixty days. A widening world.",
+    "group": "Learning & stewardship",
+    "href": "teacher-training.html"
+  },
+  {
+    "id": "learning-1",
+    "title": "A self with room to grow",
+    "group": "Learning & stewardship",
+    "href": "learning-1.html"
+  },
+  {
+    "id": "learning-2",
+    "title": "Turn reflection into capability",
+    "group": "Learning & stewardship",
+    "href": "learning-2.html"
+  },
+  {
+    "id": "learning-3",
+    "title": "Make intelligence useful",
+    "group": "Learning & stewardship",
+    "href": "learning-3.html"
+  },
+  {
+    "id": "learning-4",
+    "title": "A civic life with other minds",
+    "group": "Learning & stewardship",
+    "href": "learning-4.html"
+  },
+  {
+    "id": "learning-5",
+    "title": "Follow the physical dependencies",
+    "group": "Learning & stewardship",
+    "href": "learning-5.html"
+  },
+  {
+    "id": "learning-6",
+    "title": "Carry the work beyond the familiar",
+    "group": "Learning & stewardship",
+    "href": "learning-6.html"
+  },
+  {
+    "id": "research",
+    "title": "Turn wonder into a question.",
+    "group": "Research & sources",
+    "href": "research.html"
+  },
+  {
+    "id": "roadmap",
+    "title": "Build what the next question needs.",
+    "group": "Research & sources",
+    "href": "roadmap.html"
+  },
+  {
+    "id": "partners",
+    "title": "Part of a wider constellation.",
+    "group": "Start here",
+    "href": "partners.html"
+  },
+  {
+    "id": "documents",
+    "title": "The source room.",
+    "group": "Research & sources",
+    "href": "documents.html"
+  },
+  {
+    "id": "references",
+    "title": "Follow the idea to its source.",
+    "group": "Research & sources",
+    "href": "references.html"
+  },
+  {
+    "id": "sitemap",
+    "title": "Find your own orbit.",
+    "group": "Start here",
+    "href": "sitemap.html"
+  },
+  {
+    "id": "about",
+    "title": "An atlas for work in progress.",
+    "group": "Research & sources",
+    "href": "about.html"
+  }
+]

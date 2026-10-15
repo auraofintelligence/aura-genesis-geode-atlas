@@ -1,0 +1,674 @@
+[
+  {
+    "id": "oceania",
+    "title": "Oceania Healthy De-Slop Co-ops",
+    "url": "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/",
+    "type": "Partner project",
+    "context": "Regional shared-wellbeing and cooperative proposal.",
+    "origin": "Requested partner"
+  },
+  {
+    "id": "claytons",
+    "title": "82 Claytons Road · A gift for generations",
+    "url": "https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/",
+    "type": "Partner project",
+    "context": "A distinct land-gift and partnership invitation on Minjerribah.",
+    "origin": "Requested partner"
+  },
+  {
+    "id": "minjerribah-network",
+    "title": "Multi-site Minjerribah Network",
+    "url": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/",
+    "type": "Partner project",
+    "context": "Distinct place proposals with their own relationships and participation decisions.",
+    "origin": "Requested partner; Geode Development"
+  },
+  {
+    "id": "cultural-node",
+    "title": "Ready S.E.T. Co-op Cultural Intelligence Node",
+    "url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/",
+    "type": "Partner project",
+    "context": "A working cultural, local-compute and community-twin proposal.",
+    "origin": "Requested partner"
+  },
+  {
+    "id": "matrix-live",
+    "title": "Aura Matrix Studio · live workbench",
+    "url": "https://auraofintelligence.github.io/aura-matrix-studio/",
+    "type": "Aura workbench",
+    "context": "Current category, table, sequence and vector exploration.",
+    "origin": "Requested link; all three documents"
+  },
+  {
+    "id": "matrix-repo",
+    "title": "Aura Matrix Studio · repository",
+    "url": "https://github.com/auraofintelligence/aura-matrix-studio",
+    "type": "Aura workbench",
+    "context": "Current source and development context.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "matrix-snapshot",
+    "title": "Aura Matrix Studio · inspected revision 2232f1d",
+    "url": "https://github.com/auraofintelligence/aura-matrix-studio/tree/2232f1d69cc90a6598953223f841441b708d8d9a",
+    "type": "Source snapshot",
+    "context": "Pinned revision inspected by the protocol on 13 October 2026.",
+    "origin": "Protocol · p. 39; Geode Development"
+  },
+  {
+    "id": "matter",
+    "title": "Extreme Matter Atlas",
+    "url": "https://auraofintelligence.github.io/extreme-matter-atlas/",
+    "type": "Aura workbench",
+    "context": "Composition, lattice, interfaces, stacks and fields for materials inquiry.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "matter-repo",
+    "title": "Extreme Matter Atlas · repository",
+    "url": "https://github.com/auraofintelligence/extreme-matter-atlas",
+    "type": "Aura workbench",
+    "context": "Source for the materials workbench.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "matter-snapshot",
+    "title": "Extreme Matter Atlas · pinned revision f5b1d3a",
+    "url": "https://github.com/auraofintelligence/extreme-matter-atlas/tree/f5b1d3a074ab5728ed1d5d8dcb1af358c5a611aa",
+    "type": "Source snapshot",
+    "context": "Historical materials-workbench revision cited by the source.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "atlas-live",
+    "title": "Project Atlas · catalogue",
+    "url": "https://auraofintelligence.github.io/project-atlas/projects.html",
+    "type": "Aura workbench",
+    "context": "Wider project routes, not evidence of a deployed programme.",
+    "origin": "Teacher Training; Geode Development"
+  },
+  {
+    "id": "atlas-snapshot",
+    "title": "Project Atlas · pinned revision c308687",
+    "url": "https://github.com/auraofintelligence/project-atlas/tree/c308687a0d86206407f5f3f22ad8491992ccb161",
+    "type": "Source snapshot",
+    "context": "Pinned catalogue revision named in the source lineage.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "direct-hardware",
+    "title": "Aura Direct Hardware",
+    "url": "https://auraofintelligence.github.io/aura-direct-hardware/",
+    "type": "Aura workbench",
+    "context": "Hardware and compute development context.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "horn-torus",
+    "title": "Aura Horn Torus",
+    "url": "https://auraofintelligence.github.io/aura-horn-torus/",
+    "type": "Aura workbench",
+    "context": "Geometry and spatial-address exploration.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "scan",
+    "title": "Aura Scan Pipeline",
+    "url": "https://auraofintelligence.github.io/aura-scan-pipeline/",
+    "type": "Aura workbench",
+    "context": "Embodied references and scan workflow.",
+    "origin": "Teacher Training; Geode Development"
+  },
+  {
+    "id": "sentience",
+    "title": "Aura Sentience Codex",
+    "url": "https://auraofintelligence.github.io/aura-sentience-codex/",
+    "type": "Aura workbench",
+    "context": "Memory, intent, persistence and conversational agreements.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "geode-vibe",
+    "title": "Geode Vibe",
+    "url": "https://auraofintelligence.github.io/geode-vibe/",
+    "type": "Aura workbench",
+    "context": "Related Geode and security concept.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "genesis-project",
+    "title": "Aura Genesis",
+    "url": "https://auraofintelligence.github.io/aura-genesis/",
+    "type": "Aura workbench",
+    "context": "Related Genesis project; source planning context.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "fractal",
+    "title": "Fractal Aura",
+    "url": "https://auraofintelligence.github.io/fractal-aura/",
+    "type": "Aura workbench",
+    "context": "Learning and personal development connection.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "infinity",
+    "title": "Infinity Engine",
+    "url": "https://auraofintelligence.github.io/infinity-engine/",
+    "type": "Aura workbench",
+    "context": "Intelligence and simulation development connection.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "living-twin",
+    "title": "Minjerribah Living Twin",
+    "url": "https://auraofintelligence.github.io/minjerribah-living-twin/",
+    "type": "Aura workbench",
+    "context": "Place-linked environmental and community-twin exploration.",
+    "origin": "Teacher Training; Geode Development"
+  },
+  {
+    "id": "solar",
+    "title": "Virtual Solar Swarm",
+    "url": "https://auraofintelligence.github.io/virtual-solar-swarm/",
+    "type": "Aura workbench",
+    "context": "Solar-system instrument and mission exploration.",
+    "origin": "Teacher Training; Geode Development"
+  },
+  {
+    "id": "second-island",
+    "title": "Second Island",
+    "url": "https://auraofintelligence.github.io/second-island/",
+    "type": "Aura workbench",
+    "context": "Habitat and civic-life research connection.",
+    "origin": "Teacher Training"
+  },
+  {
+    "id": "mutual",
+    "title": "Mutual Futures",
+    "url": "https://auraofintelligence.github.io/mutual-futures/",
+    "type": "Aura workbench",
+    "context": "Shared life, contribution and civic development.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "queens",
+    "title": "500 Queens VC 2026",
+    "url": "https://auraofintelligence.github.io/500-Queens-VC-2026/",
+    "type": "Aura workbench",
+    "context": "Women-led planning and decision-making connection.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "c-hours",
+    "title": "C-Hour Introduction",
+    "url": "https://auraofintelligence.github.io/C-Hour-introduction/",
+    "type": "Aura workbench",
+    "context": "Contribution-time record context.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "mapping",
+    "title": "Aura Data Mapping",
+    "url": "https://auraofintelligence.github.io/aura-data-mapping/",
+    "type": "Aura workbench",
+    "context": "Personal data and mapping development.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "sand",
+    "title": "Civilisation of Sand",
+    "url": "https://auraofintelligence.github.io/civilisation-of-sand/",
+    "type": "Aura workbench",
+    "context": "Silica and materials-development context.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "film",
+    "title": "Film Club Documentary Builders",
+    "url": "https://auraofintelligence.github.io/film-club-documentary-builders/",
+    "type": "Aura workbench",
+    "context": "Public creative works and media practice.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "clean-energy",
+    "title": "Straddie Clean Energy Superpower",
+    "url": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/",
+    "type": "Aura workbench",
+    "context": "Infrastructure and energy proposal.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "station",
+    "title": "Straddie Space Station Simulator",
+    "url": "https://auraofintelligence.github.io/straddie-space-station-simulator/",
+    "type": "Aura workbench",
+    "context": "Habitat and simulation research connection.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "p4a",
+    "title": "P4A",
+    "url": "https://p4a.xyz/",
+    "type": "Related project",
+    "context": "Wider public project connection.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "geopolymer-study",
+    "title": "Mechanical Properties and Microstructural Characterization of Metakaolin Geopolymers Based on Orthogonal Tests",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030422/",
+    "type": "Material science",
+    "context": "2022 recipe-variable and characterisation study; does not qualify a Geode pressure structure.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "gnome",
+    "title": "Merchant et al. · Scaling deep learning for materials discovery",
+    "url": "https://doi.org/10.1038/s41586-023-06735-9",
+    "type": "Material science",
+    "context": "Nature 624, 80–85 (2023). Candidate crystal discovery requires synthesis and measurement.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "calerie",
+    "title": "Waziry et al. · CALERIE DNA-methylation measures",
+    "url": "https://doi.org/10.1038/s43587-022-00357-y",
+    "type": "Published health research",
+    "context": "Nature Aging 3, 248–257 (2023), with a published correction. Caloric restriction trial; not an Aura, Geode or HBOT study.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "photonic-ai",
+    "title": "Ahmed et al. · Universal photonic artificial intelligence acceleration",
+    "url": "https://doi.org/10.1038/s41586-025-08854-x",
+    "type": "Compute research",
+    "context": "Nature 640, 368–374 (2025). A photonic processor research example, not a computational shell.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "photonic-memory",
+    "title": "Pintus et al. · Integrated non-reciprocal magneto-optics with ultra-high endurance for photonic in-memory computing",
+    "url": "https://doi.org/10.1038/s41566-024-01549-1",
+    "type": "Compute research",
+    "context": "Nature Photonics 19, 54–62 (2025); first published 23 October 2024. Device architecture and workload context.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "nist-atomic",
+    "title": "NIST · Atom-scale Devices: Engineering, Metrology and Manufacturability",
+    "url": "https://www.nist.gov/programs-projects/atom-scale-devices-engineering-metrology-and-manufacturability",
+    "type": "Compute research",
+    "context": "Concrete atom-scale device fabrication and metrology work; a starting point for specimen questions.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "nibib-ultrasound",
+    "title": "NIBIB · Ultrasound",
+    "url": "https://www.nibib.nih.gov/science-education/science-topics/ultrasound",
+    "type": "Assessment methods",
+    "context": "Ultrasound method context; a proposed assessment needs its own question and qualified pathway.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "fmri",
+    "title": "RadiologyInfo · Functional MRI of the Brain",
+    "url": "https://www.radiologyinfo.org/en/info/fmribrain",
+    "type": "Assessment methods",
+    "context": "Acquisition and task-method context.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "medical-ultrasound",
+    "title": "Midjourney Medical · FAQ",
+    "url": "https://www.midjourney.com/medical/faq",
+    "type": "Assessment methods",
+    "context": "Historical device-development reference linked in the Geode PDF. This atlas does not endorse availability or clinical suitability.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "nvidia",
+    "title": "NVIDIA · DGX SuperPOD data-centre planning",
+    "url": "https://docs.nvidia.com/dgx-superpod/design-guides/dgx-superpod-data-center-design-h100/latest/planning.html",
+    "type": "Compute research",
+    "context": "Power, cooling and deployment planning for the named system, not a Geode procurement decision.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "mineralism",
+    "title": "Mineralism · Metaphysical properties",
+    "url": "https://www.mineralism.com.au/pages/metaphysical-properties",
+    "type": "Contemporary meaning",
+    "context": "Practitioner associations for materials; not clinical-effect evidence.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "judy-hall",
+    "title": "Judy Hall · Crystal healing",
+    "url": "https://www.collegeofpsychicstudies.co.uk/enlighten/judy-hall-crystal-healing/",
+    "type": "Contemporary meaning",
+    "context": "Attributed contemporary crystal-healing meanings; not clinical-effect evidence.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "aventurine",
+    "title": "Healing Crystals · Green aventurine",
+    "url": "https://www.healingcrystals.com/metaphysical-directory/crystals/green-aventurine-103/",
+    "type": "Contemporary meaning",
+    "context": "Attributed practitioner meaning for the palette.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "walters",
+    "title": "Walters Art Museum · Rock crystal object 41.62",
+    "url": "https://art.thewalters.org/object/41.62/",
+    "type": "History & culture",
+    "context": "Object context for medieval crystal symbolism.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "yale",
+    "title": "Yale Peabody · Gilded mummy mask",
+    "url": "https://echoesofegypt.peabody.yale.edu/egyptosophy/gilded-mummy-mask",
+    "type": "History & culture",
+    "context": "Historical context for gold and lapis; not modern therapeutic evidence.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "turquoise",
+    "title": "The Met · Turquoise in Ancient Egypt",
+    "url": "https://www.metmuseum.org/essays/turquoise-in-ancient-egypt",
+    "type": "History & culture",
+    "context": "Historical Egyptian meaning and material context.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "jade",
+    "title": "The Met · Collection object 42059",
+    "url": "https://www.metmuseum.org/art/collection/search/42059",
+    "type": "History & culture",
+    "context": "Object context cited for nephrite jade and Daoist associations.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "silver",
+    "title": "The Met · Silver in Ancient Egypt",
+    "url": "https://www.metmuseum.org/essays/silver-in-ancient-egypt",
+    "type": "History & culture",
+    "context": "Historical Egyptian silver associations.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "alchemy",
+    "title": "Getty · David Brafman on Alchemy",
+    "url": "https://www.getty.edu/podcasts/art-and-ideas/david-brafman-on-alchemy/",
+    "type": "History & culture",
+    "context": "European planetary-alchemy context for copper.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "ochre",
+    "title": "The Orb · Ochre",
+    "url": "https://www.theorb.tas.gov.au/living-cultures/ochre",
+    "type": "History & culture",
+    "context": "Tasmanian Aboriginal living knowledge; citation does not grant reuse or local cultural authority.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "obsidian",
+    "title": "Getty · Obsidian Mirror: Through the Mirror",
+    "url": "https://www.getty.edu/research/exhibitions_events/exhibitions/obsidian_mirror/through_the_mirror.html",
+    "type": "History & culture",
+    "context": "Historical Mexican divination context.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "shinto",
+    "title": "Kokugakuin University · Encyclopedia of Shinto",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9651",
+    "type": "History & culture",
+    "context": "Context for purification practices named in the material table.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "pearl",
+    "title": "Gemological Institute of America · Pearl History and Lore",
+    "url": "https://www.gia.edu/pearl-history-lore",
+    "type": "History & culture",
+    "context": "Attributed historical and cultural pearl associations.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "amber",
+    "title": "Getty · Ancient Carved Ambers, introduction",
+    "url": "https://www.getty.edu/publications/ambers/intro/3/",
+    "type": "History & culture",
+    "context": "Ancient amulets and their historical meanings.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "coral",
+    "title": "The Met · Collection object 2255",
+    "url": "https://www.metmuseum.org/art/collection/search/2255",
+    "type": "History & culture",
+    "context": "Object context for protective coral amulets.",
+    "origin": "Geode Development · pp. 39–40"
+  },
+  {
+    "id": "tga-fire",
+    "title": "TGA · Risk of fire during use of hyperbaric chambers",
+    "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/risk-fire-during-use-hyperbaric-chambers",
+    "type": "Clinical & governance",
+    "context": "10 October 2025 advisory on trained professionals, instructions for use and environment compatibility.",
+    "origin": "Protocol · p. 39"
+  },
+  {
+    "id": "nhmrc",
+    "title": "NHMRC · National Statement on Ethical Conduct in Human Research 2025",
+    "url": "https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2025",
+    "type": "Clinical & governance",
+    "context": "Human-research review context. Institutions apply their current procedures and applicable statement.",
+    "origin": "Protocol · p. 39"
+  },
+  {
+    "id": "polygraph",
+    "title": "National Research Council · The Polygraph and Lie Detection",
+    "url": "https://www.nationalacademies.org/read/10420/chapter/2",
+    "type": "Clinical & governance",
+    "context": "2003 review of physiological deception inference; relevant limits for the proposed Truth Engine.",
+    "origin": "Protocol · p. 39"
+  },
+  {
+    "id": "tga-oximeter",
+    "title": "TGA · Limitations of pulse oximeters and the effect of skin pigmentation",
+    "url": "https://www.tga.gov.au/news/safety-updates/limitations-pulse-oximeters-and-effect-skin-pigmentation",
+    "type": "Assessment methods",
+    "context": "2022 device-limitations and interpretation context.",
+    "origin": "Protocol · p. 40"
+  },
+  {
+    "id": "nata",
+    "title": "NATA · Medical laboratory accreditation ISO 15189",
+    "url": "https://nata.com.au/accreditation/medical-laboratory-accreditation-iso-15189/",
+    "type": "Clinical & governance",
+    "context": "Accreditation scope is matched to the proposed clinical testing.",
+    "origin": "Protocol · p. 40"
+  },
+  {
+    "id": "genetic-testing",
+    "title": "ACSQHC · Requirements for Medical Testing for Human Genetic Variation, fourth edition",
+    "url": "https://www.safetyandquality.gov.au/resources/requirements-medical-testing-human-genetic-variation-fourth-edition-2025",
+    "type": "Clinical & governance",
+    "context": "2025 clinical genetic-testing pathway context.",
+    "origin": "Protocol · p. 40"
+  },
+  {
+    "id": "age-biomarkers",
+    "title": "Nature Medicine · Validation of biomarkers of aging",
+    "url": "https://www.nature.com/articles/s41591-023-02784-9",
+    "type": "Published health research",
+    "context": "2024 intended-use and validation context for biological-age biomarkers.",
+    "origin": "Protocol · p. 40"
+  },
+  {
+    "id": "cdc-exposure",
+    "title": "CDC · About the National Exposure Report",
+    "url": "https://www.cdc.gov/environmental-exposure-report/about/index.html",
+    "type": "Assessment methods",
+    "context": "Named exposure measures need specimen, time and health context.",
+    "origin": "Protocol · p. 40"
+  },
+  {
+    "id": "oaic",
+    "title": "OAIC · Guide to Health Privacy: introduction and key concepts",
+    "url": "https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/health-service-providers/guide-to-health-privacy/introduction-and-key-concepts",
+    "type": "Clinical & governance",
+    "context": "Handling health, genetic and linked sample information.",
+    "origin": "Protocol · p. 40"
+  },
+  {
+    "id": "tga-software",
+    "title": "TGA · Understanding how we regulate software-based medical devices",
+    "url": "https://www.tga.gov.au/resources/guidance/understanding-how-we-regulate-software-based-medical-devices",
+    "type": "Clinical & governance",
+    "context": "Intended purpose guides software regulatory assessment.",
+    "origin": "Protocol · p. 40"
+  },
+  {
+    "id": "mixs",
+    "title": "Genomic Standards Consortium · MIxS",
+    "url": "https://genomicsstandardsconsortium.github.io/mixs/",
+    "type": "Assessment methods",
+    "context": "Contextual metadata for sequence records.",
+    "origin": "Protocol · p. 40"
+  },
+  {
+    "id": "imagination",
+    "title": "Garry et al. · Imagination inflation",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24213869/",
+    "type": "Published cognition research",
+    "context": "1996 study informing open prompts and source provenance for guided recollection.",
+    "origin": "Protocol · p. 40"
+  },
+  {
+    "id": "silica-structure",
+    "title": "Heraeus Covantics · Fused silica for high-tech applications",
+    "url": "https://www.heraeus-covantics.com/media/Media/Documents/Products_and_Solutions/SF/EN/Specialty_Fiber_Brochure_2025_01.pdf",
+    "type": "Material science",
+    "context": "Manufacturer technical brochure, 2025: crystalline quartz and amorphous fused-silica structures. Additional reference for the material distinction.",
+    "origin": "Additional editorial reference"
+  },
+  {
+    "id": "macypan-mono",
+    "title": "MACY-PAN · HE5000-Mono seated hard-shell chamber",
+    "url": "https://www.macypanofficial.com/2-0ata-single-sitting-type-hyperbaric-chamber-he5000-mono/",
+    "type": "Existing chamber reference",
+    "context": "Manufacturer product page and photography. One-person seated layout; listed dimensions 1737 × 878 × 1875 mm. Model-specific compliance remains a procurement evidence requirement.",
+    "origin": "Added after user correction · 15 October 2026"
+  },
+  {
+    "id": "skelund-arc",
+    "title": "SkelundTech · ARC upright seated chamber",
+    "url": "https://skelundtech.com/arc-hyperbaric-chamber.html",
+    "type": "Existing chamber reference",
+    "context": "Manufacturer page and factory photography. Listed dimensions 1780 × 980 × 2000 mm. Delivery body widths are explicitly not doorway clearances or emergency-egress evidence.",
+    "origin": "Added after user correction · 15 October 2026"
+  },
+  {
+    "id": "oxysail-yf1003",
+    "title": "OxySail · YF-1003 round sitting type chamber",
+    "url": "https://oxysail.com/products/yf1003-hard-shell-hyperbaric-oxygen-chamber/",
+    "type": "Existing chamber reference",
+    "context": "Manufacturer page, and a form reference already named by Oceania. The manufacturer states wellness/non-medical intended use. No image from the partner site is reused here.",
+    "origin": "Oceania supplier reference; live page checked 15 October 2026"
+  },
+  {
+    "id": "as-nzs-hyperbaric",
+    "title": "AS/NZS 4774.2:2019 · Hyperbaric Oxygen facilities",
+    "url": "https://shop.standards.ie/en-ie/standards/as-nzs-4774-2-2019-1148556_saig_as_as_2724507/",
+    "type": "Standards & egress",
+    "context": "National Standards Authority of Ireland catalogue: design, construction, operation, maintenance and personnel scope. Full applicable clauses and edition review belong in the project compliance register.",
+    "origin": "User-required egress conformity · added 15 October 2026"
+  },
+  {
+    "id": "asme-pvho",
+    "title": "ASME · PVHO-1: Pressure Vessels for Human Occupancy",
+    "url": "https://www.asme.org/codes-standards/find-codes-standards/safety-standard-for-pressure-vessels-for-human-occupancy",
+    "type": "Standards & egress",
+    "context": "Official standard overview. A standard family for the project reviewer to assess against actual construction and jurisdiction. No product conformity is established by this link.",
+    "origin": "User-required egress conformity · added 15 October 2026"
+  },
+  {
+    "id": "nfpa-99",
+    "title": "NFPA · NFPA 99 Health Care Facilities Code",
+    "url": "https://www.nfpa.org/codes-and-standards/nfpa-99-standard-development/99",
+    "type": "Standards & egress",
+    "context": "Official code-development and edition reference. Hyperbaric-facility applicability and adopted edition need actual site review.",
+    "origin": "User-required egress conformity · added 15 October 2026"
+  },
+  {
+    "id": "rbwh-hyperbaric",
+    "title": "Royal Brisbane and Women’s Hospital · Hyperbaric Medicine",
+    "url": "https://metronorth.health.qld.gov.au/rbwh/healthcare-services/hyperbaric-medicine",
+    "type": "Standards & egress",
+    "context": "Queensland Health service describes its adherence to AS/NZS 4774.2 and NFPA 99. Institutional context, not a claim of collaboration.",
+    "origin": "Additional Australian practice context · 15 October 2026"
+  },
+  {
+    "id": "matrix-readme-md",
+    "title": "Matrix Studio · Know Thy Self direction",
+    "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/README.md",
+    "type": "Source snapshot",
+    "context": "Source introduction and project direction.",
+    "origin": "Protocol · p. 39"
+  },
+  {
+    "id": "matrix-dataset-catalogue-md",
+    "title": "Matrix Studio · Dataset catalogue",
+    "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/DATASET-CATALOGUE.md",
+    "type": "Source snapshot",
+    "context": "Category and dataset examples inspected by the source.",
+    "origin": "Protocol · p. 39"
+  },
+  {
+    "id": "matrix-quickstart-data-js",
+    "title": "Matrix Studio · QuickStart data",
+    "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/quickstart-data.js",
+    "type": "Source snapshot",
+    "context": "Dataset schema examples.",
+    "origin": "Protocol · p. 39"
+  },
+  {
+    "id": "matrix-dataset-allocation-js",
+    "title": "Matrix Studio · Dataset allocation",
+    "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/dataset-allocation.js",
+    "type": "Source snapshot",
+    "context": "Spatial address implementation.",
+    "origin": "Protocol · p. 39"
+  },
+  {
+    "id": "matrix-dating-data-js",
+    "title": "Matrix Studio · Dating categories",
+    "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/dating-data.js",
+    "type": "Source snapshot",
+    "context": "Polarity and love-language examples.",
+    "origin": "Protocol · p. 39"
+  },
+  {
+    "id": "matrix-friendship-data-js",
+    "title": "Matrix Studio · Friendship categories",
+    "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/friendship-data.js",
+    "type": "Source snapshot",
+    "context": "Life-collection examples.",
+    "origin": "Protocol · p. 39"
+  },
+  {
+    "id": "matrix-development-plan-md",
+    "title": "Matrix Studio · Development plan",
+    "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/DEVELOPMENT-PLAN.md",
+    "type": "Source snapshot",
+    "context": "Agents, permissions, encryption and tools.",
+    "origin": "Protocol · p. 39"
+  }
+]

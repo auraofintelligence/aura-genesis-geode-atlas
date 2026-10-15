@@ -1,0 +1,12 @@
+{
+  "name": "aura-genesis-geode-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A source-led observatory for four Aura Genesis hardware pathways, personal intelligence and civic learning.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "dev": "node scripts/serve.mjs"
+  }
+}

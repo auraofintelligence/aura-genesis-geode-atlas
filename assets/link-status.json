@@ -1,0 +1,585 @@
+{
+  "checked": "15 October 2026",
+  "method": "GET, 16-second timeout, eight concurrent requests. HTTP reachability only; content and claims are separately contextualised.",
+  "results": [
+    {
+      "id": "oceania",
+      "url": "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/"
+    },
+    {
+      "id": "claytons",
+      "url": "https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/"
+    },
+    {
+      "id": "minjerribah-network",
+      "url": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/"
+    },
+    {
+      "id": "cultural-node",
+      "url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/"
+    },
+    {
+      "id": "matrix-live",
+      "url": "https://auraofintelligence.github.io/aura-matrix-studio/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/aura-matrix-studio/"
+    },
+    {
+      "id": "matrix-repo",
+      "url": "https://github.com/auraofintelligence/aura-matrix-studio",
+      "status": "ok",
+      "code": 200,
+      "final": "https://github.com/auraofintelligence/aura-matrix-studio"
+    },
+    {
+      "id": "matrix-snapshot",
+      "url": "https://github.com/auraofintelligence/aura-matrix-studio/tree/2232f1d69cc90a6598953223f841441b708d8d9a",
+      "status": "ok",
+      "code": 200,
+      "final": "https://github.com/auraofintelligence/aura-matrix-studio/tree/2232f1d69cc90a6598953223f841441b708d8d9a"
+    },
+    {
+      "id": "matter",
+      "url": "https://auraofintelligence.github.io/extreme-matter-atlas/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/extreme-matter-atlas/"
+    },
+    {
+      "id": "matter-repo",
+      "url": "https://github.com/auraofintelligence/extreme-matter-atlas",
+      "status": "ok",
+      "code": 200,
+      "final": "https://github.com/auraofintelligence/extreme-matter-atlas"
+    },
+    {
+      "id": "matter-snapshot",
+      "url": "https://github.com/auraofintelligence/extreme-matter-atlas/tree/f5b1d3a074ab5728ed1d5d8dcb1af358c5a611aa",
+      "status": "ok",
+      "code": 200,
+      "final": "https://github.com/auraofintelligence/extreme-matter-atlas/tree/f5b1d3a074ab5728ed1d5d8dcb1af358c5a611aa"
+    },
+    {
+      "id": "atlas-live",
+      "url": "https://auraofintelligence.github.io/project-atlas/projects.html",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/project-atlas/projects.html"
+    },
+    {
+      "id": "atlas-snapshot",
+      "url": "https://github.com/auraofintelligence/project-atlas/tree/c308687a0d86206407f5f3f22ad8491992ccb161",
+      "status": "ok",
+      "code": 200,
+      "final": "https://github.com/auraofintelligence/project-atlas/tree/c308687a0d86206407f5f3f22ad8491992ccb161"
+    },
+    {
+      "id": "direct-hardware",
+      "url": "https://auraofintelligence.github.io/aura-direct-hardware/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/aura-direct-hardware/"
+    },
+    {
+      "id": "horn-torus",
+      "url": "https://auraofintelligence.github.io/aura-horn-torus/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/aura-horn-torus/"
+    },
+    {
+      "id": "scan",
+      "url": "https://auraofintelligence.github.io/aura-scan-pipeline/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/aura-scan-pipeline/"
+    },
+    {
+      "id": "sentience",
+      "url": "https://auraofintelligence.github.io/aura-sentience-codex/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/aura-sentience-codex/"
+    },
+    {
+      "id": "geode-vibe",
+      "url": "https://auraofintelligence.github.io/geode-vibe/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/geode-vibe/"
+    },
+    {
+      "id": "genesis-project",
+      "url": "https://auraofintelligence.github.io/aura-genesis/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/aura-genesis/"
+    },
+    {
+      "id": "fractal",
+      "url": "https://auraofintelligence.github.io/fractal-aura/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/fractal-aura/"
+    },
+    {
+      "id": "infinity",
+      "url": "https://auraofintelligence.github.io/infinity-engine/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/infinity-engine/"
+    },
+    {
+      "id": "living-twin",
+      "url": "https://auraofintelligence.github.io/minjerribah-living-twin/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/minjerribah-living-twin/"
+    },
+    {
+      "id": "solar",
+      "url": "https://auraofintelligence.github.io/virtual-solar-swarm/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/virtual-solar-swarm/"
+    },
+    {
+      "id": "second-island",
+      "url": "https://auraofintelligence.github.io/second-island/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/second-island/"
+    },
+    {
+      "id": "mutual",
+      "url": "https://auraofintelligence.github.io/mutual-futures/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/mutual-futures/"
+    },
+    {
+      "id": "queens",
+      "url": "https://auraofintelligence.github.io/500-Queens-VC-2026/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/500-Queens-VC-2026/"
+    },
+    {
+      "id": "c-hours",
+      "url": "https://auraofintelligence.github.io/C-Hour-introduction/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/C-Hour-introduction/"
+    },
+    {
+      "id": "mapping",
+      "url": "https://auraofintelligence.github.io/aura-data-mapping/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/aura-data-mapping/"
+    },
+    {
+      "id": "sand",
+      "url": "https://auraofintelligence.github.io/civilisation-of-sand/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/civilisation-of-sand/"
+    },
+    {
+      "id": "film",
+      "url": "https://auraofintelligence.github.io/film-club-documentary-builders/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/film-club-documentary-builders/"
+    },
+    {
+      "id": "clean-energy",
+      "url": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/"
+    },
+    {
+      "id": "station",
+      "url": "https://auraofintelligence.github.io/straddie-space-station-simulator/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://auraofintelligence.github.io/straddie-space-station-simulator/"
+    },
+    {
+      "id": "p4a",
+      "url": "https://p4a.xyz/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://p4a.xyz/"
+    },
+    {
+      "id": "geopolymer-study",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030422/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9030422/"
+    },
+    {
+      "id": "gnome",
+      "url": "https://doi.org/10.1038/s41586-023-06735-9",
+      "status": "redirect",
+      "code": 200,
+      "final": "https://www.nature.com/articles/s41586-023-06735-9?error=cookies_not_supported&code=724cc359-3286-4686-9e85-1fbd94e3cb75"
+    },
+    {
+      "id": "calerie",
+      "url": "https://doi.org/10.1038/s43587-022-00357-y",
+      "status": "redirect",
+      "code": 200,
+      "final": "https://www.nature.com/articles/s43587-022-00357-y?error=cookies_not_supported&code=4095d7f6-00e8-4229-be10-c41a640fc5d9"
+    },
+    {
+      "id": "photonic-ai",
+      "url": "https://doi.org/10.1038/s41586-025-08854-x",
+      "status": "redirect",
+      "code": 200,
+      "final": "https://www.nature.com/articles/s41586-025-08854-x?error=cookies_not_supported&code=64c75428-c547-475d-974a-7dc6071c45b5"
+    },
+    {
+      "id": "photonic-memory",
+      "url": "https://doi.org/10.1038/s41566-024-01549-1",
+      "status": "redirect",
+      "code": 200,
+      "final": "https://www.nature.com/articles/s41566-024-01549-1?error=cookies_not_supported&code=036ec470-4107-4e08-9158-ee1c67263ac2"
+    },
+    {
+      "id": "nist-atomic",
+      "url": "https://www.nist.gov/programs-projects/atom-scale-devices-engineering-metrology-and-manufacturability",
+      "status": "inconclusive",
+      "error": "URLError"
+    },
+    {
+      "id": "nibib-ultrasound",
+      "url": "https://www.nibib.nih.gov/science-education/science-topics/ultrasound",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.nibib.nih.gov/science-education/science-topics/ultrasound"
+    },
+    {
+      "id": "fmri",
+      "url": "https://www.radiologyinfo.org/en/info/fmribrain",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.radiologyinfo.org/en/info/fmribrain"
+    },
+    {
+      "id": "medical-ultrasound",
+      "url": "https://www.midjourney.com/medical/faq",
+      "status": "blocked",
+      "code": 403
+    },
+    {
+      "id": "nvidia",
+      "url": "https://docs.nvidia.com/dgx-superpod/design-guides/dgx-superpod-data-center-design-h100/latest/planning.html",
+      "status": "ok",
+      "code": 200,
+      "final": "https://docs.nvidia.com/dgx-superpod/design-guides/dgx-superpod-data-center-design-h100/latest/planning.html"
+    },
+    {
+      "id": "mineralism",
+      "url": "https://www.mineralism.com.au/pages/metaphysical-properties",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.mineralism.com.au/pages/metaphysical-properties"
+    },
+    {
+      "id": "judy-hall",
+      "url": "https://www.collegeofpsychicstudies.co.uk/enlighten/judy-hall-crystal-healing/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.collegeofpsychicstudies.co.uk/enlighten/judy-hall-crystal-healing/"
+    },
+    {
+      "id": "aventurine",
+      "url": "https://www.healingcrystals.com/metaphysical-directory/crystals/green-aventurine-103/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.healingcrystals.com/metaphysical-directory/crystals/green-aventurine-103/"
+    },
+    {
+      "id": "walters",
+      "url": "https://art.thewalters.org/object/41.62/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://art.thewalters.org/object/41.62/"
+    },
+    {
+      "id": "yale",
+      "url": "https://echoesofegypt.peabody.yale.edu/egyptosophy/gilded-mummy-mask",
+      "status": "ok",
+      "code": 200,
+      "final": "https://echoesofegypt.peabody.yale.edu/egyptosophy/gilded-mummy-mask"
+    },
+    {
+      "id": "turquoise",
+      "url": "https://www.metmuseum.org/essays/turquoise-in-ancient-egypt",
+      "status": "blocked",
+      "code": 429
+    },
+    {
+      "id": "jade",
+      "url": "https://www.metmuseum.org/art/collection/search/42059",
+      "status": "blocked",
+      "code": 429
+    },
+    {
+      "id": "silver",
+      "url": "https://www.metmuseum.org/essays/silver-in-ancient-egypt",
+      "status": "blocked",
+      "code": 429
+    },
+    {
+      "id": "alchemy",
+      "url": "https://www.getty.edu/podcasts/art-and-ideas/david-brafman-on-alchemy/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.getty.edu/podcasts/art-and-ideas/david-brafman-on-alchemy/"
+    },
+    {
+      "id": "ochre",
+      "url": "https://www.theorb.tas.gov.au/living-cultures/ochre",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.theorb.tas.gov.au/living-cultures/ochre"
+    },
+    {
+      "id": "obsidian",
+      "url": "https://www.getty.edu/research/exhibitions_events/exhibitions/obsidian_mirror/through_the_mirror.html",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.getty.edu/research/exhibitions_events/exhibitions/obsidian_mirror/through_the_mirror.html"
+    },
+    {
+      "id": "shinto",
+      "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9651",
+      "status": "ok",
+      "code": 200,
+      "final": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9651"
+    },
+    {
+      "id": "pearl",
+      "url": "https://www.gia.edu/pearl-history-lore",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.gia.edu/pearl-history-lore"
+    },
+    {
+      "id": "amber",
+      "url": "https://www.getty.edu/publications/ambers/intro/3/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.getty.edu/publications/ambers/intro/3/"
+    },
+    {
+      "id": "coral",
+      "url": "https://www.metmuseum.org/art/collection/search/2255",
+      "status": "blocked",
+      "code": 429
+    },
+    {
+      "id": "tga-fire",
+      "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/risk-fire-during-use-hyperbaric-chambers",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts/risk-fire-during-use-hyperbaric-chambers"
+    },
+    {
+      "id": "nhmrc",
+      "url": "https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2025",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2025"
+    },
+    {
+      "id": "polygraph",
+      "url": "https://www.nationalacademies.org/read/10420/chapter/2",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.nationalacademies.org/read/10420/chapter/2"
+    },
+    {
+      "id": "tga-oximeter",
+      "url": "https://www.tga.gov.au/news/safety-updates/limitations-pulse-oximeters-and-effect-skin-pigmentation",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.tga.gov.au/news/safety-updates/limitations-pulse-oximeters-and-effect-skin-pigmentation"
+    },
+    {
+      "id": "nata",
+      "url": "https://nata.com.au/accreditation/medical-laboratory-accreditation-iso-15189/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://nata.com.au/accreditation/medical-laboratory-accreditation-iso-15189/"
+    },
+    {
+      "id": "genetic-testing",
+      "url": "https://www.safetyandquality.gov.au/resources/requirements-medical-testing-human-genetic-variation-fourth-edition-2025",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.safetyandquality.gov.au/resources/requirements-medical-testing-human-genetic-variation-fourth-edition-2025"
+    },
+    {
+      "id": "age-biomarkers",
+      "url": "https://www.nature.com/articles/s41591-023-02784-9",
+      "status": "redirect",
+      "code": 200,
+      "final": "https://www.nature.com/articles/s41591-023-02784-9?error=cookies_not_supported&code=bd85208e-fcb1-48e1-8588-17e4b2835441"
+    },
+    {
+      "id": "cdc-exposure",
+      "url": "https://www.cdc.gov/environmental-exposure-report/about/index.html",
+      "status": "blocked",
+      "code": 403
+    },
+    {
+      "id": "oaic",
+      "url": "https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/health-service-providers/guide-to-health-privacy/introduction-and-key-concepts",
+      "status": "inconclusive",
+      "error": "URLError"
+    },
+    {
+      "id": "tga-software",
+      "url": "https://www.tga.gov.au/resources/guidance/understanding-how-we-regulate-software-based-medical-devices",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.tga.gov.au/resources/guidance/understanding-how-we-regulate-software-based-medical-devices"
+    },
+    {
+      "id": "mixs",
+      "url": "https://genomicsstandardsconsortium.github.io/mixs/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://genomicsstandardsconsortium.github.io/mixs/"
+    },
+    {
+      "id": "imagination",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24213869/",
+      "status": "ok",
+      "code": 203,
+      "final": "https://pubmed.ncbi.nlm.nih.gov/24213869/"
+    },
+    {
+      "id": "silica-structure",
+      "url": "https://www.heraeus-covantics.com/media/Media/Documents/Products_and_Solutions/SF/EN/Specialty_Fiber_Brochure_2025_01.pdf",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.heraeus-covantics.com/media/Media/Documents/Products_and_Solutions/SF/EN/Specialty_Fiber_Brochure_2025_01.pdf"
+    },
+    {
+      "id": "macypan-mono",
+      "url": "https://www.macypanofficial.com/2-0ata-single-sitting-type-hyperbaric-chamber-he5000-mono/",
+      "status": "inconclusive",
+      "error": "URLError"
+    },
+    {
+      "id": "skelund-arc",
+      "url": "https://skelundtech.com/arc-hyperbaric-chamber.html",
+      "status": "ok",
+      "code": 200,
+      "final": "https://skelundtech.com/arc-hyperbaric-chamber.html"
+    },
+    {
+      "id": "oxysail-yf1003",
+      "url": "https://oxysail.com/products/yf1003-hard-shell-hyperbaric-oxygen-chamber/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://oxysail.com/products/yf1003-hard-shell-hyperbaric-oxygen-chamber/"
+    },
+    {
+      "id": "as-nzs-hyperbaric",
+      "url": "https://shop.standards.ie/en-ie/standards/as-nzs-4774-2-2019-1148556_saig_as_as_2724507/",
+      "status": "ok",
+      "code": 200,
+      "final": "https://shop.standards.ie/en-ie/standards/as-nzs-4774-2-2019-1148556_saig_as_as_2724507/"
+    },
+    {
+      "id": "asme-pvho",
+      "url": "https://www.asme.org/codes-standards/find-codes-standards/safety-standard-for-pressure-vessels-for-human-occupancy",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.asme.org/codes-standards/find-codes-standards/safety-standard-for-pressure-vessels-for-human-occupancy"
+    },
+    {
+      "id": "nfpa-99",
+      "url": "https://www.nfpa.org/codes-and-standards/nfpa-99-standard-development/99",
+      "status": "ok",
+      "code": 200,
+      "final": "https://www.nfpa.org/codes-and-standards/nfpa-99-standard-development/99"
+    },
+    {
+      "id": "rbwh-hyperbaric",
+      "url": "https://metronorth.health.qld.gov.au/rbwh/healthcare-services/hyperbaric-medicine",
+      "status": "ok",
+      "code": 200,
+      "final": "https://metronorth.health.qld.gov.au/rbwh/healthcare-services/hyperbaric-medicine"
+    },
+    {
+      "id": "matrix-readme-md",
+      "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/README.md",
+      "status": "ok",
+      "code": 200,
+      "final": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/README.md"
+    },
+    {
+      "id": "matrix-dataset-catalogue-md",
+      "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/DATASET-CATALOGUE.md",
+      "status": "ok",
+      "code": 200,
+      "final": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/DATASET-CATALOGUE.md"
+    },
+    {
+      "id": "matrix-quickstart-data-js",
+      "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/quickstart-data.js",
+      "status": "ok",
+      "code": 200,
+      "final": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/quickstart-data.js"
+    },
+    {
+      "id": "matrix-dataset-allocation-js",
+      "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/dataset-allocation.js",
+      "status": "ok",
+      "code": 200,
+      "final": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/dataset-allocation.js"
+    },
+    {
+      "id": "matrix-dating-data-js",
+      "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/dating-data.js",
+      "status": "ok",
+      "code": 200,
+      "final": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/dating-data.js"
+    },
+    {
+      "id": "matrix-friendship-data-js",
+      "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/friendship-data.js",
+      "status": "ok",
+      "code": 200,
+      "final": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/friendship-data.js"
+    },
+    {
+      "id": "matrix-development-plan-md",
+      "url": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/DEVELOPMENT-PLAN.md",
+      "status": "ok",
+      "code": 200,
+      "final": "https://github.com/auraofintelligence/aura-matrix-studio/blob/2232f1d69cc90a6598953223f841441b708d8d9a/DEVELOPMENT-PLAN.md"
+    }
+  ]
+}
