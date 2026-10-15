@@ -12,6 +12,9 @@ Website: https://auraofintelligence.github.io/aura-genesis-geode-atlas/
 - **60 complete daily course readings**, grouped into six movements, with optional browser-local bookmarks and reset.
 - **41 source-attributed materials**, a searchable **84-reference register**, and an interactive constellation sitemap.
 - All three supplied PDFs preserved byte-for-byte, with exact page references and SHA-256 checksums.
+- A distinct hero for all 30 chapters and the recovery page. Thirty generated WebP heroes total 3.56 MB (largest 184 KB); Type 1 keeps an original manufacturer photograph.
+- Active-reflection Geode concepts reserve a side workspace for haptic touch, VR/XR, wearable-sensor connections and receiver hardware, while preserving the entry route.
+- Paragraph-size text (18px at the default root size) is the minimum for navigation, labels, controls, references and footer content; only image credits use 15px.
 - Original compact Geode concept imagery and credited, manufacturer-hosted photography of existing seated Type 1 chambers. No partner-site artwork reused.
 
 ## Run locally
@@ -34,7 +37,8 @@ Open http://127.0.0.1:4186/. The preview server serves public pages, assets and 
 | `content/references.mjs` | Primary reference identities, purposes and original source contexts |
 | `content/days-extracted.json` | Sixty readings extracted from the supplied teacher PDF |
 | `content/documents.json` | Original document metadata and checksums |
-| `content/image-prompts.json` | Final concepts and the record of discarded visual directions |
+| `content/hero-artwork.json` | Current chapter-specific hero prompts, alt text, files and optimisation record |
+| `content/image-prompts.json` | Earlier concepts and the record of superseded visual directions |
 | `content/manufacturer-images.json` | Manufacturer photograph URLs, credits and product sources |
 | `scripts/build.mjs` | Static HTML, menus, source notes, sitemap and public data generation |
 | `assets/style.css`, `assets/app.js` | Responsive visual design and progressive enhancement |
@@ -46,6 +50,8 @@ Run build and check after editing. Root HTML is generated and committed. Keep su
 `npm run check` verifies local destinations and anchors, full navigation, reference identities and coverage, four pathways, sixty readings, original PDF hashes, language metadata and reduced-motion support.
 
 Browser checks verified the manufacturer images load, sitemap search/group/empty states, reference and material searches, keyboard menu dismissal, source-reading expansion, and bookmark persistence/reset. The Type 1 layout was visually checked in a 390-pixel iframe with no horizontal document overflow. The in-app browser viewport override did not apply, so this narrower layout check used the embedded preview instead. No browser console errors were observed on the checked pages.
+
+The 15 October visual update checked all 30 chapters at both 320px and 1440px in browser frames: all heroes loaded, no horizontal document overflow, and no visible text below the 18px paragraph size outside image credits. Further checks covered the 390px homepage and expanded reading, the 320px all-pages menu and Escape dismissal, 1680px navigation and four-column cards, all four pathway photographs/artworks, and sitemap/reference/material filters. The temporary responsive preview is excluded from the published site.
 
 `python scripts/check-links.py` refreshes `assets/link-status.json` using bounded network requests. The 15 October 2026 run returned 75 successful/redirecting references, six server-blocked responses, three inconclusive responses and no 404/410 results. Reachability does not validate the linked claims. The public register reports inconclusive results honestly and retains source links.
 

@@ -178,3 +178,15 @@ for(const id of ['pathways','retrofit','geopolymer','crystalline','computational
  const page=pages.find(p=>p.id===id);
  page.sections.push(s('Emergency egress is an acceptance gate.','Entry, door operation, assisted transfer and emergency extraction must conform to the applicable requirements for the actual chamber and site. The project retains dimensioned evidence, a reviewed emergency procedure and rehearsed acceptance before participant use. The dedicated entry and egress chapter follows this requirement across every pathway.',[],['as-nzs-hyperbaric','asme-pvho']));
 }
+
+// Current project layout brief supplied by the owner; not a claim about installed equipment.
+const activeWorkspace = s('An active self-reflection workspace.', 'The current project brief reserves usable space for haptic touchscreens or VR/XR interaction, alongside the participant and their wearable sensors. The seated person needs to reach the interface, move comfortably and review their own records. Guided rest is one part of the protocol; the layout also supports deliberate interaction, reflection and learning.', [
+ 'A reachable adjustable display and a defined VR/XR use envelope, with a headset dock beside the seat.',
+ 'A serviceable sensor connection bay, cable management and provision for a compatible wireless receiver where selected.',
+ 'Screens and accessories stow alongside the seat, keeping the entry, assisted-transfer route and door operation clear.',
+ 'The complete equipment configuration requires review for the actual chamber environment; experience interfaces remain separate from independent chamber controls.'
+]);
+for(const id of ['index','pathways','retrofit','geopolymer','crystalline','computational','genesis','sensing']) {
+ const page=pages.find(p=>p.id===id);
+ page.sections.splice(1,0,activeWorkspace);
+}
