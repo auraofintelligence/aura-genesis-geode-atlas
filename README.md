@@ -1,6 +1,6 @@
-# Aura Genesis Geode Atlas
+# Aura Genesis Protocol
 
-A source-linked partner website connecting four HBOT/Geode hardware pathways, personal intelligence, sixty days of teacher development, and civic space stewardship.
+A public guide to Aura of Intelligence and the proposed Aura Genesis process for harmonising and socialising Aura with biological body and mind, alongside Truth Engine research, sixty days of teacher development, and the four HBOT/Geode hardware pathways.
 
 Website: https://auraofintelligence.github.io/aura-genesis-geode-atlas/
 
@@ -78,3 +78,7 @@ The licence text comes from the [30 June 2026 Strange But True revision](https:/
 - [Aura Matrix Studio](https://auraofintelligence.github.io/aura-matrix-studio/)
 
 Source direction: Luke Nathan Hayes / Aura of Intelligence. Supplied and third-party material retain their existing rights; no blanket open-source licence is inferred.
+
+## Site navigation
+
+The homepage introduces Aura of Intelligence, both routes for developing an Aura through Genesis or independently, the Genesis harmonising and socialising process, and the Truth Engine's supporting role, with the existing Geode imagery and routes to the detailed engineering and learning chapters. The [Sources page](references.html) combines all three original PDFs, the existing 84-reference register and the source notes for all 30 pages. The [Sitemap](sitemap.html) remains the complete public page list. The repository name, Pages base address, original document bytes, historical image prompts and June licence terms are unchanged.

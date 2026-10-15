@@ -1,7 +1,7 @@
 [
   {
     "id": "index",
-    "title": "A new kind of inner space.",
+    "title": "Aura Genesis Protocol",
     "group": "Start here",
     "href": "index.html"
   },
@@ -163,13 +163,13 @@
   },
   {
     "id": "references",
-    "title": "Follow the idea to its source.",
+    "title": "Sources",
     "group": "Research & sources",
     "href": "references.html"
   },
   {
     "id": "sitemap",
-    "title": "Find your own orbit.",
+    "title": "Sitemap",
     "group": "Start here",
     "href": "sitemap.html"
   },
