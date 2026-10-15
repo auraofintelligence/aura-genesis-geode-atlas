@@ -63,6 +63,12 @@ The GitHub Actions workflow validates the build and deploys only public HTML, as
 
 Public repository: https://github.com/auraofintelligence/aura-genesis-geode-atlas. Repository About settings and topics are recorded in `.github/repository.json`. GitHub Actions deploys the website after validation.
 
+## Licence
+
+Original project material is available under the [Strange But True Public Source Licence](LICENCE.md). Supplied documents, third-party material and existing permissions retain the rights and attribution recorded in [RIGHTS.md](RIGHTS.md).
+
+The licence text comes from the [30 June 2026 Strange But True revision](https://github.com/auraofintelligence/strange-but-true/blob/b953391fc5596c2e66b3535c45ef6cf6175baa23/LICENCE.md) (`b953391fc5596c2e66b3535c45ef6cf6175baa23`, licence blob `e548f72132c17b3a7b89f6413d620384d1bcdf6c`). Only the three repository identifiers in the project description and attribution have been changed to `aura-genesis-geode-atlas`; the terms are unchanged.
+
 ## Partner constellation
 
 - [Oceania healthy de-slop co-ops](https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/)
