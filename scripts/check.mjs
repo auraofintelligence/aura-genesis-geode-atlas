@@ -38,6 +38,16 @@ const set=new Set(refs.map(r=>r.url));for(const d of docs)for(const l of d.links
 if(new Set(refs.map(r=>r.id)).size!==refs.length)failures.push('Duplicate reference IDs');
 for(let d=1;d<=60;d++){const chapter=Math.ceil(d/10);const text=fs.readFileSync(path.join(root,`learning-${chapter}.html`),'utf8');if(!text.includes(`id="day-${d}"`)||!text.includes(`#page=${d}`))failures.push(`Missing day ${d}`)}
 for(const p of pathways)if(!fs.existsSync(path.join(root,`${p.id}.html`)))failures.push(`Missing pathway ${p.id}`);
+const siteBase='https://auraofintelligence.github.io/aura-genesis-geode-atlas/';
+const canonicalURLs=htmlFiles.filter(f=>f!=='404.html').map(f=>fs.readFileSync(path.join(root,f),'utf8').match(/<link rel="canonical" href="([^"]+)"/)?.[1]);
+const sitemap=fs.readFileSync(path.join(root,'sitemap.xml'),'utf8');
+const sitemapURLs=[...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m=>m[1]);
+if(!sitemap.includes('xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"')||sitemapURLs.length!==canonicalURLs.length||new Set(sitemapURLs).size!==sitemapURLs.length||canonicalURLs.some(url=>!url||!sitemapURLs.includes(url)))failures.push('Sitemap must list every public canonical URL exactly once');
+const llms=fs.readFileSync(path.join(root,'llms.txt'),'utf8');
+const discoveryURLs=[...llms.matchAll(/\]\((https?:\/\/[^)]+)\)/g)].map(m=>m[1]);
+for(const url of discoveryURLs.filter(url=>url.startsWith(siteBase))){const rel=url.slice(siteBase.length)||'index.html';if(!fs.existsSync(path.join(root,rel)))failures.push(`Discovery guide: missing destination ${url}`)}
+if(canonicalURLs.some(url=>!discoveryURLs.includes(url)))failures.push('Discovery guide must link every public chapter');
+for(const f of htmlFiles.filter(f=>f!=='404.html'))if(!fs.readFileSync(path.join(root,f),'utf8').includes('<link rel="describedby" type="text/plain" href="llms.txt">'))failures.push(`${f}: missing discovery guide link`);
 for(const file of ['assets/style.css'])if(!fs.readFileSync(path.join(root,file),'utf8').includes('reduced'))failures.push(`${file}: reduced motion`);
 if(failures.length){console.error(failures.join('\n'));process.exit(1)}
 console.log(`PASS: ${pages.length} public pages + 404; ${heroSources.size} distinct heroes; ${links} local/external links; 60 daily readings; all four pathways; ${refs.length} reference identities; 3 original PDF hashes; complete navigation and anchors.`);

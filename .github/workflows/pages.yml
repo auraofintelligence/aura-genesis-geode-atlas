@@ -23,7 +23,7 @@ jobs:
       - name: Prepare the public site
         run: |
           mkdir public-site
-          cp *.html .nojekyll robots.txt sitemap.xml public-site/
+          cp *.html .nojekyll robots.txt sitemap.xml llms.txt public-site/
           cp -r assets documents public-site/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

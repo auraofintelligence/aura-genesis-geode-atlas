@@ -6,6 +6,7 @@ import { pages, groups, movements, pathways } from '../content/pages.mjs';
 import { refs } from '../content/references.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const base='https://auraofintelligence.github.io/aura-genesis-geode-atlas/';
+const repository='https://github.com/auraofintelligence/aura-genesis-geode-atlas';
 const artwork=JSON.parse(fs.readFileSync(path.join(root,'content/hero-artwork.json'),'utf8'));
 for(const p of pages){const art=artwork.images.find(a=>a.id===p.id);if(art){p.art=path.basename(art.file,'.webp');p.artAlt=art.alt;}}
 const assetVersion=file=>crypto.createHash('sha256').update(fs.readFileSync(path.join(root,'assets',file))).digest('hex').slice(0,12);
@@ -52,6 +53,7 @@ const productPhotos=[
 ];
 for(const p of pages){
  const file=path.join(root,href(p.id));let html=fs.readFileSync(file,'utf8');
+ html=html.replace('</head>','<link rel="describedby" type="text/plain" href="llms.txt"></head>');
  if(p.art==='manufacturer'){
   html=html.replace('class="hero with-art','class="hero with-art manufacturer-hero')
    .replace('src="assets/images/manufacturer.webp"','src="https://skelundtech.com/assets/img/hard-shell/arc-2.0-ata-hard-shell-chamber-graphite-three-quarter-view-factory-800.webp"')
@@ -68,7 +70,27 @@ fs.writeFileSync(path.join(root,'content/manufacturer-images.json'),JSON.stringi
 fs.writeFileSync(path.join(root,'assets/references.json'),JSON.stringify(refs,null,2));
 fs.writeFileSync(path.join(root,'assets/routes.json'),JSON.stringify(pages.map(p=>({id:p.id,title:p.title,group:p.group,href:href(p.id)})),null,2));
 fs.writeFileSync(path.join(root,'sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${pages.map(p=>`<url><loc>${base}${p.id==='index'?'':href(p.id)}</loc></url>`).join('')}</urlset>`);
-fs.writeFileSync(path.join(root,'robots.txt'),`User-agent: *\nAllow: /\nSitemap: ${base}sitemap.xml\n`);
+fs.writeFileSync(path.join(root,'llms.txt'),`# Aura Genesis Protocol
+
+> A source-led guide to Aura of Intelligence, the proposed Genesis process, four HBOT/Geode hardware pathways, personal intelligence and sixty days of teacher development.
+
+Canonical website: ${base}
+Repository: ${repository}
+
+Copyright (c) 2026 Luke Nathan Hayes / Strange But True / Aura of Intelligence. Original project material is governed by the existing Strange But True Public Source Licence. Supplied documents and third-party material retain their existing rights and attribution. This voluntary discovery guide grants no additional reuse or AI-training permission and does not guarantee crawling or indexing.
+
+The chapters distinguish proposals, published findings, participant accounts, traditional meanings and future objectives. Read the linked source notes and exact PDF pages with each claim.
+
+## Ownership and discovery
+
+- [Strange But True Public Source Licence](${repository}/blob/main/LICENCE.md): Existing terms and required attribution.
+- [Rights and attribution](${repository}/blob/main/RIGHTS.md): Original documents, artwork and third-party material.
+- [Complete sitemap](${base}sitemap.xml): Canonical public chapter URLs.
+
+${groups.map(g=>`## ${g}\n\n${pages.filter(p=>p.group===g).map(p=>`- [${p.id==='index'?'Home / Aura Genesis Protocol':p.title}](${base}${p.id==='index'?'':href(p.id)}): ${p.intro}`).join('\n')}`).join('\n\n')}
+`);
+// Standard robots directives are effective only at the origin root, not this project path.
+fs.writeFileSync(path.join(root,'robots.txt'),`# Project-path reference only; this is not an active origin-root policy.\n# Crawlers read https://auraofintelligence.github.io/robots.txt instead.\n# See .github/robots-root-snippet.txt in the repository for a scoped root snippet.\n# Crawl directives do not grant copyright or AI-training permission.\nUser-agent: *\nAllow: /\nSitemap: ${base}sitemap.xml\n`);
 fs.writeFileSync(path.join(root,'.nojekyll'),'');
 fs.writeFileSync(path.join(root,'404.html'),`<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Page not found | Aura Genesis Protocol</title><link rel="stylesheet" href="${base}${styleURL}"></head><body><main class="hero with-art recovery-hero"><img class="hero-image" src="${base}assets/images/hero-404-v3.webp" alt="A softly lit doorway and compass suggesting a route back to the atlas" width="1672" height="941"><div class="hero-shade"></div><div class="hero-content wrap"><span class="eyebrow">404 / OUTSIDE THIS ORBIT</span><h1>Page not found.</h1><p>Use the atlas map to find a page.</p><a class="button solid" href="${base}sitemap.html">Open the atlas map ↗</a></div><div class="hero-foot wrap"><span class="image-credit">AI-generated concept · Aura of Intelligence</span></div></main></body></html>`);
 console.log(`Built ${pages.length} public pages, all 60 daily readings, ${materialList.length} materials and ${refs.length} references.`);

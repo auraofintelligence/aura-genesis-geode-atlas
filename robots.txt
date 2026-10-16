@@ -1,3 +1,7 @@
+# Project-path reference only; this is not an active origin-root policy.
+# Crawlers read https://auraofintelligence.github.io/robots.txt instead.
+# See .github/robots-root-snippet.txt in the repository for a scoped root snippet.
+# Crawl directives do not grant copyright or AI-training permission.
 User-agent: *
 Allow: /
 Sitemap: https://auraofintelligence.github.io/aura-genesis-geode-atlas/sitemap.xml

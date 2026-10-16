@@ -1,0 +1,64 @@
+# Aura Genesis Protocol
+
+> A source-led guide to Aura of Intelligence, the proposed Genesis process, four HBOT/Geode hardware pathways, personal intelligence and sixty days of teacher development.
+
+Canonical website: https://auraofintelligence.github.io/aura-genesis-geode-atlas/
+Repository: https://github.com/auraofintelligence/aura-genesis-geode-atlas
+
+Copyright (c) 2026 Luke Nathan Hayes / Strange But True / Aura of Intelligence. Original project material is governed by the existing Strange But True Public Source Licence. Supplied documents and third-party material retain their existing rights and attribution. This voluntary discovery guide grants no additional reuse or AI-training permission and does not guarantee crawling or indexing.
+
+The chapters distinguish proposals, published findings, participant accounts, traditional meanings and future objectives. Read the linked source notes and exact PDF pages with each claim.
+
+## Ownership and discovery
+
+- [Strange But True Public Source Licence](https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/main/LICENCE.md): Existing terms and required attribution.
+- [Rights and attribution](https://github.com/auraofintelligence/aura-genesis-geode-atlas/blob/main/RIGHTS.md): Original documents, artwork and third-party material.
+- [Complete sitemap](https://auraofintelligence.github.io/aura-genesis-geode-atlas/sitemap.xml): Canonical public chapter URLs.
+
+## Start here
+
+- [Home / Aura Genesis Protocol](https://auraofintelligence.github.io/aura-genesis-geode-atlas/): Aura of Intelligence is a proposed personal computing environment connecting your memories, values, body information, relationships, skills and intentions with artificial intelligence and tools. Your personal Aura is an evolving digital twin and AI partner, developed through a continuing relationship with you. An Aura can be created and developed either through Genesis or independently of it. The wider ambition is growing human agency, creativity and shared capability alongside general intelligence and superintelligence, with stewardship of Earth and future habitats.
+- [Part of a wider constellation.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/partners.html): Related Aura of Intelligence projects cover cooperative wellbeing, Minjerribah sites, cultural intelligence and personal data tools.
+- [Sitemap](https://auraofintelligence.github.io/aura-genesis-geode-atlas/sitemap.html): Every page in Aura Genesis Protocol, grouped by subject. Follow a link directly or use the keyword and subject filters.
+
+## Four pathways
+
+- [Four ways into the Geode.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/pathways.html): A conventional chamber provides one research integration route. Three Geode generations develop mineral structure, crystalline architecture and eventually material-integrated computation.
+- [Begin with a seated chamber.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/retrofit.html): Existing single-person seated hard-shell chambers provide the form reference: a compact enclosed cabin, a recliner and a defined front entry. Manufacturer documentation and emergency-egress conformity shape the actual choice.
+- [Cast a mineral environment.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/geopolymer.html): Traceable quartz-rich feedstock, geopolymer recipes and serviceable cast panels create the first Geode materials programme. Local compute remains separate.
+- [Shape light, sound and structure.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/crystalline.html): Ordered minerals, fused-silica components and crystal-rich blends offer different fabrication routes. Each assembly is named for its measured material structure; compute remains separate.
+- [When the shell becomes a system.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/computational.html): Version 3 aims for integrated crystalline compute: sensing, routing, memory and computation within the crystalline Geode itself. Atomically precise manufacturing is required for the completed vision.
+- [Entry and exit shape the chamber.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/entry-egress.html): Every bought, retrofitted or newly built chamber must conform to its applicable emergency-egress requirements. Entry geometry and assisted extraction are part of the core design from the first layout.
+
+## The experience
+
+- [A personal adventure in depth.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/genesis.html): A participant chooses life categories, explores their own words and revisits possible selves. Dialogue, rest, simulation and life outside the session form a continuing loop.
+- [Keep the three clocks clear.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/calendar.html): The source design calls for 120 qualifying hours at the defined operating pressure. Arrival, preparation, pressurisation, decompression, learning and everyday life have separate time.
+- [An invitation to examine meaning.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/truth-engine.html): The proposed Truth Engine studies relationships between declared responses, synchronised observations and context. Its outputs are estimates with uncertainty and a route for the participant’s correction.
+- [Every material has two stories.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/materials.html): A physical configuration has provenance, manufacture and measurements. Its personal or traditional meanings have named sources, context and a person who interprets them.
+- [Observe with context.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/sensing.html): The protocol combines installed session streams with separately agreed external assessment. A measurement keeps its instrument, units, timing, quality and purpose.
+- [A life around the session.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/immersion.html): Sleep, food, nature, creative work, practical learning and meaningful responsibility provide experiences worth returning to. The arrangement follows the person’s actual life.
+
+## Personal intelligence
+
+- [Give your information a place.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/personal-aura.html): Aura Matrix Studio supplies an evolving workbench for categories, tables, spatial addresses and personal meaning. Genesis extends that foundation into a continuing, source-linked relationship.
+- [Public. Private. Secret.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/sovereignty.html): Three contextual selves organise a personal record. Interpretation, training, action and publication each need a scope that the person understands.
+- [From a record to useful action.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/intelligence.html): Compact personal models, specialist teams and simulated environments develop through useful tasks, visible evaluation and repair.
+
+## Learning & stewardship
+
+- [Sixty days. A widening world.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/teacher-training.html): From a personal life map to civic space stewardship across Earth and the solar system. Sixty source-linked encounters develop capability through making, testing and teaching.
+- [A self with room to grow](https://auraofintelligence.github.io/aura-genesis-geode-atlas/learning-1.html): Life maps, changing selves, symbols, embodiment, language, memory and the first teaching encounter.
+- [Turn reflection into capability](https://auraofintelligence.github.io/aura-genesis-geode-atlas/learning-2.html): Attention, retrieval, models, training examples, evidence, creative intelligence and transfer.
+- [Make intelligence useful](https://auraofintelligence.github.io/aura-genesis-geode-atlas/learning-3.html): Functions, callers, specialist teams, repair, world models, observers and scenarios.
+- [A civic life with other minds](https://auraofintelligence.github.io/aura-genesis-geode-atlas/learning-4.html): Permissioned encounters, plural values, partnership, culture, community twins and leadership.
+- [Follow the physical dependencies](https://auraofintelligence.github.io/aura-genesis-geode-atlas/learning-5.html): Compute, sovereignty, experiments, materials, longevity, ecology, resilience and habitats.
+- [Carry the work beyond the familiar](https://auraofintelligence.github.io/aura-genesis-geode-atlas/learning-6.html): Solar-system missions, transfer, recursive improvement, collective intelligence and a reviewed public portfolio.
+
+## Research & sources
+
+- [Turn wonder into a question.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/research.html): Material behaviour, personal meaning, biological change and model fidelity need different kinds of evidence. A useful research record keeps those distinctions visible.
+- [Build what the next question needs.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/roadmap.html): The development plan covers personal data, session interfaces, materials, integrated compute and teacher training. Each work item records an owner, acceptance criteria, test results and a review date.
+- [The source room.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/documents.html): Download the three original design documents: 140 pages covering Geode development, the Genesis protocol and teacher training. Chapter citations link to the relevant PDF pages.
+- [Sources](https://auraofintelligence.github.io/aura-genesis-geode-atlas/references.html): The three original design documents, chapter citations and 84 linked references behind Aura Genesis Protocol.
+- [An atlas for work in progress.](https://auraofintelligence.github.io/aura-genesis-geode-atlas/about.html): A public exploration of Aura Genesis, Geode development and teacher learning, based on the three supplied October 2026 design documents.

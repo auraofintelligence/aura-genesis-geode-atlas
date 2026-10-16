@@ -63,6 +63,14 @@ The GitHub Actions workflow validates the build and deploys only public HTML, as
 
 Public repository: https://github.com/auraofintelligence/aura-genesis-geode-atlas. Repository About settings and topics are recorded in `.github/repository.json`. GitHub Actions deploys the website after validation.
 
+## Crawler discovery
+
+The build generates `llms.txt` with the canonical website, repository, existing licence and rights links, and all 30 public chapters. Each chapter links to it through `rel="describedby"`; the deployment workflow includes it. This follows the voluntary [llms.txt proposal](https://llmstxt.org/) and does not guarantee crawling or indexing. The existing canonical metadata and `sitemap.xml` remain in place; the checks compare sitemap entries with actual public-page canonical URLs and verify discovery links.
+
+Standard robots rules must be served at [the origin root](https://auraofintelligence.github.io/robots.txt). The project URL `/aura-genesis-geode-atlas/robots.txt` cannot control crawling, as explained in [Google's robots.txt guidance](https://developers.google.com/crawling/docs/robots-txt/create-robots-txt). Its comments record that limitation. [`.github/robots-root-snippet.txt`](.github/robots-root-snippet.txt) is ready for the origin owner's review and careful merge into the existing root policy; it is not deployed by this repository. No other repository or origin-root configuration is changed.
+
+The snippet scopes general discovery and `OAI-SearchBot` access to this project, lists its sitemap and signals an opt-out to the training crawler `GPTBot`. [OpenAI documents search and training crawlers separately](https://developers.openai.com/api/docs/bots). These directives rely on crawler cooperation, do not enforce copyright, and do not cover every training collector. Discovery grants no additional reuse or AI-training permission; `LICENCE.md`, ownership and third-party rights remain unchanged.
+
 ## Licence
 
 Original project material is available under the [Strange But True Public Source Licence](LICENCE.md). Supplied documents, third-party material and existing permissions retain the rights and attribution recorded in [RIGHTS.md](RIGHTS.md).
