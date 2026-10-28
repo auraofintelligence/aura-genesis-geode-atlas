@@ -1,6 +1,8 @@
 const r=(id,title,url,type,context,origin='Geode Development · pp. 39–40')=>({id,title,url,type,context,origin});
 const gh='https://auraofintelligence.github.io/';
 export const refs=[
+r('verse-box','Verse Box public guide',gh+'aura-verse-box/','Related project','Proposed lower-cost public introduction to personal Aura building, demonstrations and assisted projects. Genesis remains a separate optional programme.','Verse Box Trial Proposal Version 1, pp. 1-4, 14, 22; current public guide'),
+r('verse-box-source','Verse Box guide source, revision a72e29c','https://github.com/auraofintelligence/aura-verse-box/blob/a72e29c53d25ad4a156a3d8f0c063328d5c9046a/content/proposal-sections.json','Source snapshot','Committed proposal explanations and page references behind the Verse Box introduction, personal Aura choices and separate Genesis programme.','Verse Box committed source reviewed 28 October 2026'),
 r('oceania','Oceania Healthy De-Slop Co-ops',gh+'Oceania-healthy-de-slop-co-ops/','Partner project','Regional shared-wellbeing and cooperative proposal.','Project network'),
 r('claytons','82 Claytons Road · A gift for generations',gh+'Anglican-Diocese-82-Claytons-Amity/','Partner project','A distinct land-gift and partnership invitation on Minjerribah.','Project network'),
 r('minjerribah-network','Multi-site Minjerribah Network',gh+'multi-site-Minjerribah-network/','Partner project','Proposed Minjerribah sites and facilities.','Project network; Geode Development'),

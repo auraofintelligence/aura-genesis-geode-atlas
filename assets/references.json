@@ -1,5 +1,21 @@
 [
   {
+    "id": "verse-box",
+    "title": "Verse Box public guide",
+    "url": "https://auraofintelligence.github.io/aura-verse-box/",
+    "type": "Related project",
+    "context": "Proposed lower-cost public introduction to personal Aura building, demonstrations and assisted projects. Genesis remains a separate optional programme.",
+    "origin": "Verse Box Trial Proposal Version 1, pp. 1-4, 14, 22; current public guide"
+  },
+  {
+    "id": "verse-box-source",
+    "title": "Verse Box guide source, revision a72e29c",
+    "url": "https://github.com/auraofintelligence/aura-verse-box/blob/a72e29c53d25ad4a156a3d8f0c063328d5c9046a/content/proposal-sections.json",
+    "type": "Source snapshot",
+    "context": "Committed proposal explanations and page references behind the Verse Box introduction, personal Aura choices and separate Genesis programme.",
+    "origin": "Verse Box committed source reviewed 28 October 2026"
+  },
+  {
     "id": "oceania",
     "title": "Oceania Healthy De-Slop Co-ops",
     "url": "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/",

@@ -10,7 +10,7 @@ Website: https://auraofintelligence.github.io/aura-genesis-geode-atlas/
 - **Four distinct hardware pathways:** existing seated hard-shell retrofit; geopolymer; crystalline/fused-quartz/blend; future computational crystalline Geode.
 - A dedicated **entry and emergency-egress** chapter, linked across every hardware pathway. Conformity is a procurement/development acceptance requirement; no image or supplier listing certifies it.
 - **60 complete daily course readings**, grouped into six movements, with optional browser-local bookmarks and reset.
-- **41 source-attributed materials**, a searchable **84-reference register**, and an interactive constellation sitemap.
+- **41 source-attributed materials**, a searchable **86-reference register**, and an interactive constellation sitemap.
 - All three supplied PDFs preserved byte-for-byte, with exact page references and SHA-256 checksums.
 - A distinct hero for all 30 chapters and the recovery page. Thirty generated WebP heroes total 3.56 MB (largest 184 KB); Type 1 keeps an original manufacturer photograph.
 - Active-reflection Geode concepts reserve a side workspace for haptic touch, VR/XR, wearable-sensor connections and receiver hardware, while preserving the entry route.
@@ -89,4 +89,4 @@ Source direction: Luke Nathan Hayes / Aura of Intelligence. Supplied and third-p
 
 ## Site navigation
 
-The homepage introduces Aura of Intelligence, both routes for developing an Aura through Genesis or independently, the Genesis harmonising and socialising process, and the Truth Engine's supporting role, with the existing Geode imagery and routes to the detailed engineering and learning chapters. The [Sources page](references.html) combines all three original PDFs, the existing 84-reference register and the source notes for all 30 pages. The [Sitemap](sitemap.html) remains the complete public page list. The repository name, Pages base address, original document bytes, historical image prompts and June licence terms are unchanged.
+The homepage introduces Aura of Intelligence, both routes for developing an Aura through Genesis or independently, the Genesis harmonising and socialising process, and the Truth Engine's supporting role, with the existing Geode imagery and routes to the detailed engineering and learning chapters. The [Sources page](references.html) combines all three original PDFs, the 86-reference register and the source notes for all 30 pages. The [Sitemap](sitemap.html) remains the complete public page list. The repository name, Pages base address, original document bytes, historical image prompts and June licence terms are unchanged.
